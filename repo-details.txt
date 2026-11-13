@@ -1,0 +1,3 @@
+GitHub name: clause-ledger
+Description: Citation-first contract evidence retrieval using FastAPI, SQLite and transparent hybrid lexical search.
+Topics: python,fastapi,information-retrieval,nlp,sqlite
