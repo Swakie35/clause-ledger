@@ -1,5 +1,7 @@
 # ClauseLedger
 
+[![CI](https://github.com/Swakie35/clause-ledger/actions/workflows/ci.yml/badge.svg)](https://github.com/Swakie35/clause-ledger/actions/workflows/ci.yml)
+
 **Evidence-first contract search, built as a small API.**
 
 I've found that a contract-search demo is far more useful when it shows *where* an answer came from, rather than generating confident text without evidence. ClauseLedger stores documents locally, keeps exact character offsets for every passage, ranks passages using word and character TF–IDF, and returns explicit source citations. It also highlights a few simple clause patterns as review signals.
